@@ -1,0 +1,16 @@
+site_name: 佛经集
+theme:
+  name: material
+  language: 'zh'
+  palette:
+    primary: white
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode

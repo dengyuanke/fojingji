@@ -1,0 +1,44 @@
+site_name: 佛经集
+theme:
+  name: material
+  language: 'zh'
+  icon:
+    logo: 'material/school'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.path
+    - toc.integrate
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: 暗
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: 明
+extra_css:
+  - '_static/css/extra.css'
+nav:
+ - 主页: index.md
+ - 公司简介: company.md
+ - 产品介绍:
+     - 产品1: product1.md
+     - 产品2: product2.md
+ - 联系我们: contact.md
+
+
