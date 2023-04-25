@@ -4,8 +4,8 @@ strict: false
 theme:
   name: material
   language: 'zh'
-  icon:
-    logo: 'material/school'
+  logo: 'fo.svg'
+  favicon: 'favicon.ico'
   features:
     - navigation.tabs
     - navigation.tabs.sticky
