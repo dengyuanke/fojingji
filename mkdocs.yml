@@ -1,6 +1,6 @@
 site_name: 佛经集
 strict: false
-remote_name: main
+# remote_name: main
 theme:
   name: material
   language: 'zh'
