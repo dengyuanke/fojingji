@@ -1,5 +1,6 @@
 site_name: 佛经集
 strict: false
+remote_name: main
 theme:
   name: material
   language: 'zh'
@@ -45,8 +46,8 @@ nav:
      - 药草喻品第五: fahuajing/5.md
      - 授记品第六: fahuajing/6.md
      - 化城喻品第七: fahuajing/7.md
+     - 五百弟子受记品第八: fahuajing/8.md
  - 楞严经:
      - 卷一: lengyanjing/1.md
      - 卷二: lengyanjing/2.md
-
 
