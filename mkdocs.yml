@@ -36,6 +36,11 @@ theme:
 extra_css:
   - '_static/css/extra.css'
 nav:
+ - 阿含部类:
+   - 长阿含经: 
+     - 长阿含经序: ahanbu/changahanjing/1.md
+     - 佛说长阿含经卷第一:
+       - 第一分初 大本经第一: ahanbu/changahanjing/2.md
  - 心经: xinjing/xinjing.md
  - 法华经:
      - 卷一:
