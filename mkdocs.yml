@@ -372,7 +372,11 @@ nav:
      - 卷二十八: benyuanbulei/chuyaojing/28.md
      - 卷二十九: benyuanbulei/chuyaojing/29.md
      - 卷三十: benyuanbulei/chuyaojing/30.md
- - 心经: xinjing/xinjing.md
+ - 般若部类:
+   - 心经: bore/xinjing/xinjing.md
+   - 大般若波罗蜜多经:
+     - 卷001: bore/daboreboluomiduojing/1.md
+     - 卷002: bore/daboreboluomiduojing/2.md
  - 法华经:
      - 卷一:
        - 序品第一: fahuajing/1.md
